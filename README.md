@@ -1,17 +1,17 @@
-# 🤖 Detektor Pose Meme
+# Detektor Pose Meme
 
-Program Python untuk mendeteksi pose tangan tertentu dan (memohon) menggunakan webcam secara *real-time*, yang kemudian memicu pemutaran video meme beserta suaranya.
+Program Python untuk mendeteksi pose tangan tertentu seperti memohon dengan menggunakan webcam secara *real-time*, yang kemudian memicu pemutaran video meme beserta suaranya.
 
 ---
 
-## 📋 Syaratnya
+## Syaratnya
 Sebelum memulai, pastikan komputer kamu sudah instal:
-*   **Python** (Disarankan versi 3.10)
+*   **Python** (Aku saranin pake versi 3.10)
 *   **Git** (Opsional)
 
 ---
 
-## 🚀 Step-by-Step Instalasi & Jalanin Projectnya
+## Step-by-Step Instalasi & Jalanin Projectnya
 
 ### 1. Unduh / Clone Repo Project Ini
 Buka terminal/Command Prompt, lalu arahkan ke folder project kamu:
